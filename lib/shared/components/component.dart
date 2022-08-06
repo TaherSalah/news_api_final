@@ -18,6 +18,7 @@ Widget builderArticlesItems(
         child: Row(
           children: [
             Container(
+              ///////////////// add cached network /////////////////
               height: 135.0,
               width: 135.0,
               decoration: BoxDecoration(
